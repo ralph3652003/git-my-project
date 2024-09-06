@@ -1,4 +1,4 @@
 Welcome to MyProject!
 
-Author: Thomas Liu
+Author: Bo Thomas Liu
 Twitter: @RalphLiu
