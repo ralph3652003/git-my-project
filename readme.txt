@@ -1,4 +1,4 @@
 Welcome to MyProject!
 
-Author: Thomas Claudius Huber
-Twitter: @RalphLiu
+Author: bo Liu
+Twitter: @boLiu
